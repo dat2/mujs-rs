@@ -1,0 +1,64 @@
+1 + 2
+console.log('hello world')
+exit
+log('hello world')
+print(1)
+exit
+q
+print(1)
+print(2)
+print('hello world')
+quit
+print(1)
+quit
+.quit
+.exit
+println(y)
+println('y')
+.exit
+print(1
+print(1)
+println(1)
+println(1,2,3)
+println(1,2,3,4)
+println(1,2,3,4,5,6,7)
+println(1)
+var x = 1
+println(x)
+x++
+println(x)
+x+=5
+println(x)
+x += 6
+println(x)
+.exit
+println(1,2,3)
+.exit
+create_object()
+println(create_object())
+var obj = create_object();
+println(obj.foo, obj.bar);
+.exit
+var obj = create_object();
+println(obj.foo, obj.bar);
+.exit
+var obj = create_object();
+println(obj.foo, obj.bar);
+.exit
+var obj = create_object();
+obj.foo
+println(obj.foo, obj.bar);
+Object.create
+println(Object.create)
+println(create_object)
+println(create_object())
+println(JSON)
+println(JSON.stringify(create_object()))
+quit
+.exit
+println(JSON.stringify(create_object()))
+.exit
+println(JSON.stringify(create_object()))
+.exit
+println(JSON.stringify(create_object()))
+.exit

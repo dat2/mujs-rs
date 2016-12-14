@@ -1,0 +1,16 @@
+[package]
+name = "mujs-rs"
+version = "0.1.0"
+authors = ["nick"]
+
+[dependencies]
+libc = "*"
+rustyline = "*"
+
+[lib]
+name = "mujs_sys"
+path = "src/mujs-sys.rs"
+
+[[bin]]
+name = "mujs"
+path = "src/main.rs"
